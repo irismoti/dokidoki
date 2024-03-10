@@ -74,7 +74,7 @@ body {
 
 @keyframes float {
   from {
-    transform: translateY(0px) scale(0.7) rotate(odeg)
+    transform: translateY(0px) scale(0.7) rotate(0deg)
     opacity 0.6;
   }
   to {
